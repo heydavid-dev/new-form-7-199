@@ -100,7 +100,7 @@ people-list:
       url: https://linkedin.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social-list:
+footer-list:
   - title: twitter
     url: https://twitter.com
   - title: facebook
